@@ -1,2 +1,2 @@
 # botique-java-client
-Java library for botique.xyz's REST API
+Java library for botique's REST API
